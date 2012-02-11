@@ -1,0 +1,27 @@
+fdt.o: fdt.c \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/libfdt_env.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/compiler.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/x86_64-linux/usr/lib/armv7a-angstrom-linux-gnueabi/gcc/arm-angstrom-linux-gnueabi/4.5.4/include/stddef.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/linux/string.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/linux/types.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/linux/config.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/linux/posix_types.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/linux/stddef.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/asm/posix_types.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/asm/types.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/asm/string.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/config.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/config_cmd_defaults.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/config_defaults.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/configs/omap3_beagle.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/asm/arch/cpu.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/asm/arch/omap3.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/config_cmd_default.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/asm/config.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/asm/byteorder.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/linux/byteorder/little_endian.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/linux/byteorder/swab.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/linux/byteorder/generic.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/fdt.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/libfdt.h \
+ libfdt_internal.h

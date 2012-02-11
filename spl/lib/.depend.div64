@@ -1,0 +1,8 @@
+/home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/lib/div64.o: \
+ div64.c \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/linux/types.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/linux/config.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/linux/posix_types.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/linux/stddef.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/asm/posix_types.h \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/asm/types.h

@@ -1,0 +1,3 @@
+/home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/lib/ctype.o: \
+ ctype.c \
+ /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/include/linux/ctype.h
