@@ -1,0 +1,1474 @@
+Archive member included because of file (symbol)
+
+/home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_udivsi3.o)
+                              arch/arm/cpu/armv7/omap-common/libomap-common.o (__aeabi_uidiv)
+/home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_divsi3.o)
+                              drivers/i2c/libi2c.o (__aeabi_idiv)
+/home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_lshrdi3.o)
+                              drivers/mtd/nand/libnand.o (__aeabi_llsr)
+/home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashrdi3.o)
+                              drivers/mtd/nand/libnand.o (__aeabi_lasr)
+/home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashldi3.o)
+                              drivers/mmc/libmmc.o (__aeabi_llsl)
+/home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_dvmd_lnx.o)
+                              /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 arch/arm/cpu/armv7/start.o
+ .bss           0x0000000000000000        0x0 arch/arm/cpu/armv7/start.o
+ .text          0x0000000000000000        0x0 arch/arm/cpu/armv7/libarmv7.o
+ .data          0x0000000000000000        0x0 arch/arm/cpu/armv7/libarmv7.o
+ .bss           0x0000000000000000        0x0 arch/arm/cpu/armv7/libarmv7.o
+ .text          0x0000000000000000       0x1c arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .text.get_ticks
+                0x0000000000000000       0x10 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .text.get_tbclk
+                0x0000000000000000        0x8 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .text.do_cancel_out
+                0x0000000000000000       0x64 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .text.cancel_out
+                0x0000000000000000       0xa8 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .text._set_gpio_dataout
+                0x0000000000000000       0x44 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .text.gpio_set_value
+                0x0000000000000000       0x3c arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .text.gpio_direction_output
+                0x0000000000000000       0x60 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .text.gpio_free
+                0x0000000000000000        0x4 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .bss           0x0000000000000000        0x0 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .text.wait_for_command_complete
+                0x0000000000000000       0x10 arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.abort    0x0000000000000000        0x4 arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.checkboard
+                0x0000000000000000       0x40 arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.v7_outer_cache_enable
+                0x0000000000000000       0x20 arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.v7_outer_cache_disable
+                0x0000000000000000       0x20 arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.dieid_num_r
+                0x0000000000000000       0x7c arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.get_cpu_type
+                0x0000000000000000       0x10 arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.get_sku_id
+                0x0000000000000000       0x14 arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.get_gpmc0_base
+                0x0000000000000000       0x1c arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.get_gpmc0_width
+                0x0000000000000000        0x8 arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.get_board_rev
+                0x0000000000000000        0x8 arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.print_cpuinfo
+                0x0000000000000000      0x1b8 arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.is_mem_sdr
+                0x0000000000000000       0x18 arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.dram_init
+                0x0000000000000000       0x38 arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.dram_init_banksize
+                0x0000000000000000       0x50 arch/arm/cpu/armv7/omap3/libomap3.o
+ .rodata.rev_s_37xx
+                0x0000000000000000        0xc arch/arm/cpu/armv7/omap3/libomap3.o
+ .rodata.CSWTCH.11
+                0x0000000000000000       0x10 arch/arm/cpu/armv7/omap3/libomap3.o
+ .rodata.rev_s  0x0000000000000000       0x20 arch/arm/cpu/armv7/omap3/libomap3.o
+ .data          0x0000000000000000        0x0 arch/arm/cpu/armv7/omap3/libomap3.o
+ .bss           0x0000000000000000        0x0 arch/arm/cpu/armv7/omap3/libomap3.o
+ .text          0x0000000000000000        0x0 board/ti/beagle/libbeagle.o
+ .text.board_init
+                0x0000000000000000       0x3c board/ti/beagle/libbeagle.o
+ .text.get_expansion_id
+                0x0000000000000000       0x68 board/ti/beagle/libbeagle.o
+ .text.beagle_display_init
+                0x0000000000000000       0x40 board/ti/beagle/libbeagle.o
+ .text.misc_init_r
+                0x0000000000000000      0x7f8 board/ti/beagle/libbeagle.o
+ .text.ehci_hcd_stop
+                0x0000000000000000       0x88 board/ti/beagle/libbeagle.o
+ .text.show_boot_progress
+                0x0000000000000000        0xc board/ti/beagle/libbeagle.o
+ .text.ehci_hcd_init
+                0x0000000000000000      0x110 board/ti/beagle/libbeagle.o
+ .text.__led_toggle
+                0x0000000000000000       0x60 board/ti/beagle/libbeagle.o
+ .text.__led_set
+                0x0000000000000000       0x74 board/ti/beagle/libbeagle.o
+ .text.__led_init
+                0x0000000000000000        0x4 board/ti/beagle/libbeagle.o
+ .text.green_led_on
+                0x0000000000000000        0xc board/ti/beagle/libbeagle.o
+ .text.green_led_off
+                0x0000000000000000        0xc board/ti/beagle/libbeagle.o
+ .rodata.venc_config_std_tv
+                0x0000000000000000       0xd0 board/ti/beagle/libbeagle.o
+ .rodata.dvid_cfg
+                0x0000000000000000       0x24 board/ti/beagle/libbeagle.o
+ .rodata.dvid_cfg_xm
+                0x0000000000000000       0x24 board/ti/beagle/libbeagle.o
+ .rodata.sysinfo
+                0x0000000000000000        0xc board/ti/beagle/libbeagle.o
+ .data          0x0000000000000000        0x0 board/ti/beagle/libbeagle.o
+ .bss           0x0000000000000000        0x0 board/ti/beagle/libbeagle.o
+ .bss.expansion_config
+                0x0000000000000000       0x60 board/ti/beagle/libbeagle.o
+ .text          0x0000000000000000        0x0 common/libcommon.o
+ .text.console_setfile
+                0x0000000000000000       0xa4 common/libcommon.o
+ .text.serial_printf
+                0x0000000000000000       0x40 common/libcommon.o
+ .text.fgetc    0x0000000000000000       0x2c common/libcommon.o
+ .text.ftstc    0x0000000000000000       0x2c common/libcommon.o
+ .text.fputc    0x0000000000000000       0x28 common/libcommon.o
+ .text.fprintf  0x0000000000000000       0x48 common/libcommon.o
+ .text.getc     0x0000000000000000       0x24 common/libcommon.o
+ .text.tstc     0x0000000000000000       0x24 common/libcommon.o
+ .text.putc     0x0000000000000000       0x28 common/libcommon.o
+ .text.vprintf  0x0000000000000000       0x40 common/libcommon.o
+ .text.ctrlc    0x0000000000000000       0x54 common/libcommon.o
+ .text.disable_ctrlc
+                0x0000000000000000       0x18 common/libcommon.o
+ .text.had_ctrlc
+                0x0000000000000000       0x10 common/libcommon.o
+ .text.clear_ctrlc
+                0x0000000000000000       0x14 common/libcommon.o
+ .text.dbg      0x0000000000000000        0xc common/libcommon.o
+ .text.search_device
+                0x0000000000000000       0x28 common/libcommon.o
+ .text.console_assign
+                0x0000000000000000       0x40 common/libcommon.o
+ .text.console_init_f
+                0x0000000000000000       0x10 common/libcommon.o
+ .text.stdio_print_current_devices
+                0x0000000000000000       0xb4 common/libcommon.o
+ .text.console_init_r
+                0x0000000000000000      0x154 common/libcommon.o
+ .text.cfree    0x0000000000000000        0x4 common/libcommon.o
+ .text.calloc   0x0000000000000000       0xe0 common/libcommon.o
+ .text.memalign
+                0x0000000000000000      0x110 common/libcommon.o
+ .text.pvalloc  0x0000000000000000       0x18 common/libcommon.o
+ .text.valloc   0x0000000000000000        0xc common/libcommon.o
+ .text.realloc  0x0000000000000000      0x450 common/libcommon.o
+ .text.malloc_usable_size
+                0x0000000000000000       0x40 common/libcommon.o
+ .text.mallopt  0x0000000000000000       0x70 common/libcommon.o
+ .text.get_ram_size
+                0x0000000000000000       0xfc common/libcommon.o
+ .text.stdio_get_list
+                0x0000000000000000        0xc common/libcommon.o
+ .text.stdio_get_by_name
+                0x0000000000000000       0x54 common/libcommon.o
+ .text.stdio_clone
+                0x0000000000000000       0x48 common/libcommon.o
+ .text.stdio_register
+                0x0000000000000000       0x44 common/libcommon.o
+ .text.stdio_init
+                0x0000000000000000       0x9c common/libcommon.o
+ .rodata.str1.1
+                0x0000000000000000       0xaa common/libcommon.o
+ .data          0x0000000000000000        0x0 common/libcommon.o
+ .data.mmap_threshold
+                0x0000000000000000        0x4 common/libcommon.o
+ .data.stdio_names
+                0x0000000000000000        0xc common/libcommon.o
+ .bss           0x0000000000000000        0x0 common/libcommon.o
+ .bss.ctrlc_was_pressed
+                0x0000000000000000        0x4 common/libcommon.o
+ .bss.ctrlc_disabled
+                0x0000000000000000        0x4 common/libcommon.o
+ .bss.n_mmaps_max
+                0x0000000000000000        0x4 common/libcommon.o
+ .bss.devs      0x0000000000000000       0x3c common/libcommon.o
+ .text          0x0000000000000000        0x0 disk/libdisk.o
+ .text.get_dev  0x0000000000000000       0x60 disk/libdisk.o
+ .text.dev_print
+                0x0000000000000000      0x218 disk/libdisk.o
+ .text.print_part
+                0x0000000000000000       0xe8 disk/libdisk.o
+ .text.print_partition_extended
+                0x0000000000000000      0x20c disk/libdisk.o
+ .text.print_part_dos
+                0x0000000000000000       0x2c disk/libdisk.o
+ .rodata.block_drvr
+                0x0000000000000000       0x18 disk/libdisk.o
+ .data          0x0000000000000000        0x0 disk/libdisk.o
+ .bss           0x0000000000000000        0x0 disk/libdisk.o
+ .text          0x0000000000000000        0x0 drivers/i2c/libi2c.o
+ .text.i2c_probe
+                0x0000000000000000       0x8c drivers/i2c/libi2c.o
+ .text.i2c_read
+                0x0000000000000000      0x1a4 drivers/i2c/libi2c.o
+ .text.i2c_set_bus_num
+                0x0000000000000000       0x90 drivers/i2c/libi2c.o
+ .text.i2c_get_bus_num
+                0x0000000000000000       0x10 drivers/i2c/libi2c.o
+ .data          0x0000000000000000        0x0 drivers/i2c/libi2c.o
+ .bss           0x0000000000000000        0x0 drivers/i2c/libi2c.o
+ .text          0x0000000000000000        0x0 drivers/mmc/libmmc.o
+ .text.__board_mmc_getcd
+                0x0000000000000000        0x8 drivers/mmc/libmmc.o
+ .text.mmc_switch_part
+                0x0000000000000000       0x3c drivers/mmc/libmmc.o
+ .text.mmc_set_bus_width
+                0x0000000000000000       0x14 drivers/mmc/libmmc.o
+ .text.mmc_get_dev
+                0x0000000000000000       0x14 drivers/mmc/libmmc.o
+ .text.get_mmc_num
+                0x0000000000000000       0x10 drivers/mmc/libmmc.o
+ .data          0x0000000000000000        0x0 drivers/mmc/libmmc.o
+ .bss           0x0000000000000000        0x0 drivers/mmc/libmmc.o
+ .text          0x0000000000000000        0x0 drivers/mtd/nand/libnand.o
+ .text.nand_calculate_ecc
+                0x0000000000000000       0xf0 drivers/mtd/nand/libnand.o
+ .text.nand_correct_data
+                0x0000000000000000      0x120 drivers/mtd/nand/libnand.o
+ .text.generic_ffs
+                0x0000000000000000       0x50 drivers/mtd/nand/libnand.o
+ .text.nand_release_device
+                0x0000000000000000       0x18 drivers/mtd/nand/libnand.o
+ .text.nand_read_byte
+                0x0000000000000000       0x14 drivers/mtd/nand/libnand.o
+ .text.nand_read_byte16
+                0x0000000000000000       0x14 drivers/mtd/nand/libnand.o
+ .text.nand_read_word
+                0x0000000000000000       0x10 drivers/mtd/nand/libnand.o
+ .text.nand_write_buf
+                0x0000000000000000       0x2c drivers/mtd/nand/libnand.o
+ .text.nand_verify_buf
+                0x0000000000000000       0x44 drivers/mtd/nand/libnand.o
+ .text.nand_write_buf16
+                0x0000000000000000       0x30 drivers/mtd/nand/libnand.o
+ .text.nand_verify_buf16
+                0x0000000000000000       0x44 drivers/mtd/nand/libnand.o
+ .text.nand_block_bad
+                0x0000000000000000       0xf0 drivers/mtd/nand/libnand.o
+ .text.nand_check_wp
+                0x0000000000000000       0x3c drivers/mtd/nand/libnand.o
+ .text.nand_read_page_raw
+                0x0000000000000000       0x38 drivers/mtd/nand/libnand.o
+ .text.nand_read_page_raw_syndrome
+                0x0000000000000000       0xd4 drivers/mtd/nand/libnand.o
+ .text.nand_read_page_swecc
+                0x0000000000000000      0x114 drivers/mtd/nand/libnand.o
+ .text.nand_read_subpage
+                0x0000000000000000      0x280 drivers/mtd/nand/libnand.o
+ .text.nand_read_page_hwecc
+                0x0000000000000000      0x138 drivers/mtd/nand/libnand.o
+ .text.nand_read_page_hwecc_oob_first
+                0x0000000000000000      0x134 drivers/mtd/nand/libnand.o
+ .text.nand_read_page_syndrome
+                0x0000000000000000      0x128 drivers/mtd/nand/libnand.o
+ .text.nand_read_oob_std
+                0x0000000000000000       0x48 drivers/mtd/nand/libnand.o
+ .text.nand_read_oob_syndrome
+                0x0000000000000000      0x100 drivers/mtd/nand/libnand.o
+ .text.nand_write_oob_std
+                0x0000000000000000       0x70 drivers/mtd/nand/libnand.o
+ .text.nand_write_oob_syndrome
+                0x0000000000000000      0x1b4 drivers/mtd/nand/libnand.o
+ .text.nand_write_page_raw
+                0x0000000000000000       0x34 drivers/mtd/nand/libnand.o
+ .text.nand_write_page_raw_syndrome
+                0x0000000000000000       0xd0 drivers/mtd/nand/libnand.o
+ .text.nand_write_page_swecc
+                0x0000000000000000       0xac drivers/mtd/nand/libnand.o
+ .text.nand_write_page_hwecc
+                0x0000000000000000       0xc0 drivers/mtd/nand/libnand.o
+ .text.nand_write_page_syndrome
+                0x0000000000000000       0xf4 drivers/mtd/nand/libnand.o
+ .text.single_erase_cmd
+                0x0000000000000000       0x3c drivers/mtd/nand/libnand.o
+ .text.multi_erase_cmd
+                0x0000000000000000       0x8c drivers/mtd/nand/libnand.o
+ .text.nand_sync
+                0x0000000000000000       0x10 drivers/mtd/nand/libnand.o
+ .text.nand_select_chip
+                0x0000000000000000       0x58 drivers/mtd/nand/libnand.o
+ .text.nand_block_checkbad
+                0x0000000000000000       0x80 drivers/mtd/nand/libnand.o
+ .text.nand_block_isbad
+                0x0000000000000000       0x30 drivers/mtd/nand/libnand.o
+ .text.nand_block_markbad
+                0x0000000000000000       0x3c drivers/mtd/nand/libnand.o
+ .text.nand_write_page
+                0x0000000000000000       0xa8 drivers/mtd/nand/libnand.o
+ .text.nand_fill_oob
+                0x0000000000000000      0x108 drivers/mtd/nand/libnand.o
+ .text.nand_do_write_oob
+                0x0000000000000000      0x1a8 drivers/mtd/nand/libnand.o
+ .text.nand_do_write_ops
+                0x0000000000000000      0x2d8 drivers/mtd/nand/libnand.o
+ .text.nand_write_oob
+                0x0000000000000000       0x9c drivers/mtd/nand/libnand.o
+ .text.nand_write
+                0x0000000000000000       0x84 drivers/mtd/nand/libnand.o
+ .text.nand_transfer_oob
+                0x0000000000000000      0x108 drivers/mtd/nand/libnand.o
+ .text.nand_default_block_markbad
+                0x0000000000000000       0xf0 drivers/mtd/nand/libnand.o
+ .text.nand_wait
+                0x0000000000000000       0xd4 drivers/mtd/nand/libnand.o
+ .text.nand_wait_ready
+                0x0000000000000000       0x4c drivers/mtd/nand/libnand.o
+ .text.nand_do_read_ops
+                0x0000000000000000      0x40c drivers/mtd/nand/libnand.o
+ .text.nand_read_oob
+                0x0000000000000000      0x2c0 drivers/mtd/nand/libnand.o
+ .text.nand_read
+                0x0000000000000000       0x84 drivers/mtd/nand/libnand.o
+ .text.nand_command
+                0x0000000000000000      0x1dc drivers/mtd/nand/libnand.o
+ .text.nand_command_lp
+                0x0000000000000000      0x264 drivers/mtd/nand/libnand.o
+ .text.nand_erase_nand
+                0x0000000000000000      0x3e0 drivers/mtd/nand/libnand.o
+ .text.nand_erase
+                0x0000000000000000        0x8 drivers/mtd/nand/libnand.o
+ .text.nand_scan_ident
+                0x0000000000000000      0x5e8 drivers/mtd/nand/libnand.o
+ .text.nand_scan_tail
+                0x0000000000000000      0x58c drivers/mtd/nand/libnand.o
+ .text.nand_scan
+                0x0000000000000000       0x24 drivers/mtd/nand/libnand.o
+ .text.nand_release
+                0x0000000000000000       0x28 drivers/mtd/nand/libnand.o
+ .rodata.nand_ecc_precalc_table
+                0x0000000000000000      0x100 drivers/mtd/nand/libnand.o
+ .rodata.__func__.4434
+                0x0000000000000000       0x14 drivers/mtd/nand/libnand.o
+ .rodata.__FUNCTION__.4299
+                0x0000000000000000        0xe drivers/mtd/nand/libnand.o
+ .rodata.__FUNCTION__.3721
+                0x0000000000000000       0x11 drivers/mtd/nand/libnand.o
+ .rodata.__FUNCTION__.4062
+                0x0000000000000000       0x12 drivers/mtd/nand/libnand.o
+ .rodata.__FUNCTION__.4467
+                0x0000000000000000        0xf drivers/mtd/nand/libnand.o
+ .data          0x0000000000000000        0x0 drivers/mtd/nand/libnand.o
+ .data.nand_oob_8
+                0x0000000000000000      0x248 drivers/mtd/nand/libnand.o
+ .data.nand_oob_16
+                0x0000000000000000      0x248 drivers/mtd/nand/libnand.o
+ .data.nand_oob_128
+                0x0000000000000000      0x248 drivers/mtd/nand/libnand.o
+ .data.nand_oob_64
+                0x0000000000000000      0x248 drivers/mtd/nand/libnand.o
+ .bss           0x0000000000000000        0x0 drivers/mtd/nand/libnand.o
+ .text          0x0000000000000000        0x0 drivers/power/libpower.o
+ .text.twl4030_power_reset_init
+                0x0000000000000000       0x84 drivers/power/libpower.o
+ .text.twl4030_power_init
+                0x0000000000000000       0x44 drivers/power/libpower.o
+ .rodata.str1.1
+                0x0000000000000000       0x8a drivers/power/libpower.o
+ .data          0x0000000000000000        0x0 drivers/power/libpower.o
+ .bss           0x0000000000000000        0x0 drivers/power/libpower.o
+ .text          0x0000000000000000        0x0 drivers/serial/libserial.o
+ .text.NS16550_reinit
+                0x0000000000000000       0x50 drivers/serial/libserial.o
+ .text.NS16550_getc
+                0x0000000000000000       0x28 drivers/serial/libserial.o
+ .text.NS16550_tstc
+                0x0000000000000000        0xc drivers/serial/libserial.o
+ .text._serial_putc_raw
+                0x0000000000000000       0x1c drivers/serial/libserial.o
+ .text._serial_getc
+                0x0000000000000000       0x1c drivers/serial/libserial.o
+ .text._serial_tstc
+                0x0000000000000000       0x14 drivers/serial/libserial.o
+ .text._serial_setbrg
+                0x0000000000000000       0x28 drivers/serial/libserial.o
+ .text.serial_putc
+                0x0000000000000000        0x8 drivers/serial/libserial.o
+ .text.serial_putc_raw
+                0x0000000000000000        0x8 drivers/serial/libserial.o
+ .text.serial_getc
+                0x0000000000000000        0x8 drivers/serial/libserial.o
+ .text.serial_tstc
+                0x0000000000000000        0x8 drivers/serial/libserial.o
+ .text.serial_setbrg
+                0x0000000000000000        0x8 drivers/serial/libserial.o
+ .data          0x0000000000000000        0x0 drivers/serial/libserial.o
+ .bss           0x0000000000000000        0x0 drivers/serial/libserial.o
+ .text          0x0000000000000000        0x0 fs/fat/libfat.o
+ .text.file_fat_detectfs
+                0x0000000000000000      0x158 fs/fat/libfat.o
+ .text.file_fat_ls
+                0x0000000000000000       0x10 fs/fat/libfat.o
+ .data          0x0000000000000000        0x0 fs/fat/libfat.o
+ .bss           0x0000000000000000        0x0 fs/fat/libfat.o
+ .text          0x0000000000000000        0x0 lib/libgeneric.o
+ .text.strncpy  0x0000000000000000       0x24 lib/libgeneric.o
+ .text.strcat   0x0000000000000000       0x2c lib/libgeneric.o
+ .text.strncat  0x0000000000000000       0x48 lib/libgeneric.o
+ .text.strchr   0x0000000000000000       0x34 lib/libgeneric.o
+ .text.strlen   0x0000000000000000       0x1c lib/libgeneric.o
+ .text.strrchr  0x0000000000000000       0x3c lib/libgeneric.o
+ .text.strdup   0x0000000000000000       0x34 lib/libgeneric.o
+ .text.strspn   0x0000000000000000       0x40 lib/libgeneric.o
+ .text.strpbrk  0x0000000000000000       0x3c lib/libgeneric.o
+ .text.strtok   0x0000000000000000       0x78 lib/libgeneric.o
+ .text.strsep   0x0000000000000000       0x34 lib/libgeneric.o
+ .text.strswab  0x0000000000000000       0x4c lib/libgeneric.o
+ .text.bcopy    0x0000000000000000       0x20 lib/libgeneric.o
+ .text.memmove  0x0000000000000000       0x54 lib/libgeneric.o
+ .text.memscan  0x0000000000000000       0x28 lib/libgeneric.o
+ .text.strstr   0x0000000000000000       0x60 lib/libgeneric.o
+ .text.memchr   0x0000000000000000       0x34 lib/libgeneric.o
+ .text.mdelay   0x0000000000000000       0x24 lib/libgeneric.o
+ .text.simple_strtoul
+                0x0000000000000000       0xac lib/libgeneric.o
+ .text.strict_strtoul
+                0x0000000000000000       0x78 lib/libgeneric.o
+ .text.simple_strtol
+                0x0000000000000000       0x28 lib/libgeneric.o
+ .text.ustrtoul
+                0x0000000000000000       0x74 lib/libgeneric.o
+ .text.simple_strtoull
+                0x0000000000000000       0xdc lib/libgeneric.o
+ .text.panic    0x0000000000000000       0x44 lib/libgeneric.o
+ .text.__assert_fail
+                0x0000000000000000       0x14 lib/libgeneric.o
+ .text.simple_itoa
+                0x0000000000000000       0x58 lib/libgeneric.o
+ .data          0x0000000000000000        0x0 lib/libgeneric.o
+ .bss           0x0000000000000000        0x0 lib/libgeneric.o
+ .bss.___strtok
+                0x0000000000000000        0x4 lib/libgeneric.o
+ .bss.local.3217
+                0x0000000000000000       0x16 lib/libgeneric.o
+ .text          0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+ .data          0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+ .bss           0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+ .text.__aeabi_unwind_cpp_pr0
+                0x0000000000000000        0x4 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+ .data          0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_lshrdi3.o)
+ .bss           0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_lshrdi3.o)
+ .text          0x0000000000000000       0x1c /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashrdi3.o)
+ .data          0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashrdi3.o)
+ .bss           0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashrdi3.o)
+ .data          0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashldi3.o)
+ .bss           0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashldi3.o)
+ .data          0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_dvmd_lnx.o)
+ .bss           0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_dvmd_lnx.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+.sram            0x0000000040200800 0x000000000000b400
+.sdram           0x0000000080000000 0x0000000000080000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+
+.text           0x0000000040200800     0x8ba8
+                0x0000000040200800                __start = .
+ arch/arm/cpu/armv7/start.o(.text)
+ .text          0x0000000040200800      0x180 arch/arm/cpu/armv7/start.o
+                0x0000000040200800                _start
+                0x0000000040200840                _end_vect
+                0x0000000040200840                _TEXT_BASE
+                0x0000000040200844                _bss_start_ofs
+                0x0000000040200848                _image_copy_end_ofs
+                0x000000004020084c                _bss_end_ofs
+                0x0000000040200850                _end_ofs
+                0x0000000040200854                IRQ_STACK_START_IN
+                0x00000000402008b8                relocate_code
+ *(.text*)
+ .text.sdelay   0x0000000040200980        0xc arch/arm/cpu/armv7/libarmv7.o
+                0x0000000040200980                sdelay
+ .text.sr32     0x000000004020098c       0x24 arch/arm/cpu/armv7/libarmv7.o
+                0x000000004020098c                sr32
+ .text.wait_on_value
+                0x00000000402009b0       0x34 arch/arm/cpu/armv7/libarmv7.o
+                0x00000000402009b0                wait_on_value
+ .text.timer_init
+                0x00000000402009e4       0x40 arch/arm/cpu/armv7/omap-common/libomap-common.o
+                0x00000000402009e4                timer_init
+ .text.__udelay
+                0x0000000040200a24       0x58 arch/arm/cpu/armv7/omap-common/libomap-common.o
+                0x0000000040200a24                __udelay
+ .text.get_timer_masked
+                0x0000000040200a7c       0x40 arch/arm/cpu/armv7/omap-common/libomap-common.o
+                0x0000000040200a7c                get_timer_masked
+ .text.get_timer
+                0x0000000040200abc       0x14 arch/arm/cpu/armv7/omap-common/libomap-common.o
+                0x0000000040200abc                get_timer
+ .text._set_gpio_direction
+                0x0000000040200ad0       0x2c arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .text.check_gpio
+                0x0000000040200afc       0x30 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .text.gpio_get_value
+                0x0000000040200b2c       0x74 arch/arm/cpu/armv7/omap-common/libomap-common.o
+                0x0000000040200b2c                gpio_get_value
+ .text.gpio_direction_input
+                0x0000000040200ba0       0x44 arch/arm/cpu/armv7/omap-common/libomap-common.o
+                0x0000000040200ba0                gpio_direction_input
+ .text.gpio_request
+                0x0000000040200be4       0x18 arch/arm/cpu/armv7/omap-common/libomap-common.o
+                0x0000000040200be4                gpio_request
+ .text.__fswab32
+                0x0000000040200bfc       0x1c arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .text.jump_to_image_no_args
+                0x0000000040200c18       0x1c arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .text.hang     0x0000000040200c34       0x14 arch/arm/cpu/armv7/omap-common/libomap-common.o
+                0x0000000040200c34                hang
+ .text.board_init_f
+                0x0000000040200c48       0x20 arch/arm/cpu/armv7/omap-common/libomap-common.o
+                0x0000000040200c48                board_init_f
+ .text.spl_parse_image_header
+                0x0000000040200c68       0xb0 arch/arm/cpu/armv7/omap-common/libomap-common.o
+                0x0000000040200c68                spl_parse_image_header
+ .text.board_init_r
+                0x0000000040200d18       0x8c arch/arm/cpu/armv7/omap-common/libomap-common.o
+                0x0000000040200d18                board_init_r
+ .text.preloader_console_init
+                0x0000000040200da4       0x80 arch/arm/cpu/armv7/omap-common/libomap-common.o
+                0x0000000040200da4                preloader_console_init
+ .text.__omap_rev_string
+                0x0000000040200e24        0xc arch/arm/cpu/armv7/omap-common/libomap-common.o
+                0x0000000040200e24                omap_rev_string
+                0x0000000040200e24                __omap_rev_string
+ .text.spl_nand_load_image
+                0x0000000040200e30       0x64 arch/arm/cpu/armv7/omap-common/libomap-common.o
+                0x0000000040200e30                spl_nand_load_image
+ .text.board_mmc_init
+                0x0000000040200e94       0x30 arch/arm/cpu/armv7/omap-common/libomap-common.o
+                0x0000000040200e94                board_mmc_init
+ .text.spl_mmc_load_image
+                0x0000000040200ec4      0x14c arch/arm/cpu/armv7/omap-common/libomap-common.o
+                0x0000000040200ec4                spl_mmc_load_image
+ .text          0x0000000040201010      0x70c arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040201014                save_boot_params
+                0x0000000040201028                omap3_gp_romcode_call
+                0x0000000040201044                do_omap3_emu_romcode_call
+                0x000000004020106c                cpy_clk_code
+                0x0000000040201090                go_to_speed
+                0x0000000040201198                lowlevel_init
+                0x00000000402012b0                get_mpu_dpll_param
+                0x00000000402013a8                get_iva_dpll_param
+                0x00000000402014a0                get_core_dpll_param
+                0x00000000402014f8                get_per_dpll_param
+                0x0000000040201550                get_per2_dpll_param
+                0x00000000402016fc                get_36x_mpu_dpll_param
+                0x0000000040201704                get_36x_iva_dpll_param
+                0x000000004020170c                get_36x_core_dpll_param
+                0x0000000040201714                get_36x_per_dpll_param
+ .text.omap3_emu_romcode_call
+                0x000000004020171c       0x38 arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.omap3_update_aux_cr_secure
+                0x0000000040201754       0x40 arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.omap_boot_mode
+                0x0000000040201794       0x48 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040201794                omap_boot_mode
+ .text.omap_boot_device
+                0x00000000402017dc       0x10 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x00000000402017dc                omap_boot_device
+ .text.secure_unlock_mem
+                0x00000000402017ec       0x70 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x00000000402017ec                secure_unlock_mem
+ .text.secureworld_exit
+                0x000000004020185c       0x2c arch/arm/cpu/armv7/omap3/libomap3.o
+                0x000000004020185c                secureworld_exit
+ .text.try_unlock_memory
+                0x0000000040201888       0x48 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040201888                try_unlock_memory
+ .text.watchdog_init
+                0x00000000402018d0       0x84 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x00000000402018d0                watchdog_init
+ .text.s_init   0x0000000040201954       0x80 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040201954                s_init
+ .text.dpll5_init_34xx.clone.5
+                0x00000000402019d4       0xd0 arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.get_osc_clk_speed
+                0x0000000040201aa4      0x140 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040201aa4                get_osc_clk_speed
+ .text.get_sys_clkin_sel
+                0x0000000040201be4       0x6c arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040201be4                get_sys_clkin_sel
+ .text.prcm_init
+                0x0000000040201c50      0xb40 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040201c50                prcm_init
+ .text.per_clocks_enable
+                0x0000000040202790      0x21c arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040202790                per_clocks_enable
+ .text.mem_ok   0x00000000402029ac       0x4c arch/arm/cpu/armv7/omap3/libomap3.o
+                0x00000000402029ac                mem_ok
+ .text.enable_gpmc_cs_config
+                0x00000000402029f8       0x74 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x00000000402029f8                enable_gpmc_cs_config
+ .text.gpmc_init
+                0x0000000040202a6c       0x68 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040202a6c                gpmc_init
+ .text.get_cpu_id
+                0x0000000040202ad4       0x1c arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040202ad4                get_cpu_id
+ .text.get_cpu_family
+                0x0000000040202af0       0x48 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040202af0                get_cpu_family
+ .text.get_cpu_rev
+                0x0000000040202b38       0x14 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040202b38                get_cpu_rev
+ .text.get_base
+                0x0000000040202b4c        0xc arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040202b4c                get_base
+ .text.is_running_in_flash
+                0x0000000040202b58       0x18 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040202b58                is_running_in_flash
+ .text.is_running_in_sram
+                0x0000000040202b70       0x18 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040202b70                is_running_in_sram
+ .text.is_running_in_sdram
+                0x0000000040202b88       0x18 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040202b88                is_running_in_sdram
+ .text.get_boot_type
+                0x0000000040202ba0       0x14 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040202ba0                get_boot_type
+ .text.get_device_type
+                0x0000000040202bb4       0x18 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040202bb4                get_device_type
+ .text.nand_command
+                0x0000000040202bcc       0x30 arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.identify_nand_chip
+                0x0000000040202bfc       0xb0 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040202bfc                identify_nand_chip
+ .text.write_sdrc_timings
+                0x0000000040202cac       0x78 arch/arm/cpu/armv7/omap3/libomap3.o
+ .text.get_sdr_cs_size
+                0x0000000040202d24       0x20 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040202d24                get_sdr_cs_size
+ .text.make_cs1_contiguous
+                0x0000000040202d44       0x30 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040202d44                make_cs1_contiguous
+ .text.get_sdr_cs_offset
+                0x0000000040202d74       0x24 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040202d74                get_sdr_cs_offset
+ .text.do_sdrc_init
+                0x0000000040202d98      0x158 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040202d98                do_sdrc_init
+ .text.mem_init
+                0x0000000040202ef0        0xc arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000040202ef0                mem_init
+ .text.get_board_revision
+                0x0000000040202efc       0xa0 board/ti/beagle/libbeagle.o
+                0x0000000040202efc                get_board_revision
+ .text.get_board_mem_timings
+                0x0000000040202f9c      0x10c board/ti/beagle/libbeagle.o
+                0x0000000040202f9c                get_board_mem_timings
+ .text.set_muxconf_regs
+                0x00000000402030a8      0x568 board/ti/beagle/libbeagle.o
+                0x00000000402030a8                set_muxconf_regs
+ .text.fputs    0x0000000040203610       0x28 common/libcommon.o
+                0x0000000040203610                fputs
+ .text.puts     0x0000000040203638       0x28 common/libcommon.o
+                0x0000000040203638                puts
+ .text.printf   0x0000000040203660       0x4c common/libcommon.o
+                0x0000000040203660                printf
+ .text.sbrk     0x00000000402036ac       0x6c common/libcommon.o
+                0x00000000402036ac                sbrk
+ .text.mem_malloc_init
+                0x0000000040203718       0x34 common/libcommon.o
+                0x0000000040203718                mem_malloc_init
+ .text.malloc_trim
+                0x000000004020374c       0xd8 common/libcommon.o
+                0x000000004020374c                malloc_trim
+ .text.free     0x0000000040203824      0x22c common/libcommon.o
+                0x0000000040203824                free
+ .text.malloc   0x0000000040203a50      0x5e4 common/libcommon.o
+                0x0000000040203a50                malloc
+ .text.init_part
+                0x0000000040204034       0x1c disk/libdisk.o
+                0x0000000040204034                init_part
+ .text.get_partition_info
+                0x0000000040204050       0x28 disk/libdisk.o
+                0x0000000040204050                get_partition_info
+ .text.le32_to_int
+                0x0000000040204078       0x24 disk/libdisk.o
+ .text.is_extended
+                0x000000004020409c       0x24 disk/libdisk.o
+ .text.get_partition_info_extended
+                0x00000000402040c0      0x230 disk/libdisk.o
+ .text.test_part_dos
+                0x00000000402042f0       0x68 disk/libdisk.o
+                0x00000000402042f0                test_part_dos
+ .text.get_partition_info_dos
+                0x0000000040204358       0x1c disk/libdisk.o
+                0x0000000040204358                get_partition_info_dos
+ .text.wait_for_bb
+                0x0000000040204374       0x80 drivers/i2c/libi2c.o
+ .text.wait_for_pin
+                0x00000000402043f4       0x74 drivers/i2c/libi2c.o
+ .text.flush_fifo
+                0x0000000040204468       0x38 drivers/i2c/libi2c.o
+ .text.i2c_init
+                0x00000000402044a0      0x1c4 drivers/i2c/libi2c.o
+                0x00000000402044a0                i2c_init
+ .text.i2c_write
+                0x0000000040204664      0x16c drivers/i2c/libi2c.o
+                0x0000000040204664                i2c_write
+ .text.__fswab32
+                0x00000000402047d0       0x1c drivers/mmc/libmmc.o
+ .text.mmc_send_cmd
+                0x00000000402047ec      0x3e0 drivers/mmc/libmmc.o
+                0x00000000402047ec                mmc_send_cmd
+ .text.mmc_send_status
+                0x0000000040204bcc       0xc4 drivers/mmc/libmmc.o
+                0x0000000040204bcc                mmc_send_status
+ .text.mmc_set_blocklen
+                0x0000000040204c90       0x38 drivers/mmc/libmmc.o
+                0x0000000040204c90                mmc_set_blocklen
+ .text.find_mmc_device
+                0x0000000040204cc8       0x48 drivers/mmc/libmmc.o
+                0x0000000040204cc8                find_mmc_device
+ .text.mmc_berase
+                0x0000000040204d10      0x174 drivers/mmc/libmmc.o
+ .text.mmc_bwrite
+                0x0000000040204e84      0x18c drivers/mmc/libmmc.o
+ .text.mmc_read_blocks
+                0x0000000040205010       0xe0 drivers/mmc/libmmc.o
+                0x0000000040205010                mmc_read_blocks
+ .text.mmc_bread
+                0x00000000402050f0       0xa4 drivers/mmc/libmmc.o
+ .text.mmc_go_idle
+                0x0000000040205194       0x54 drivers/mmc/libmmc.o
+                0x0000000040205194                mmc_go_idle
+ .text.sd_send_op_cond
+                0x00000000402051e8      0x158 drivers/mmc/libmmc.o
+                0x00000000402051e8                sd_send_op_cond
+ .text.mmc_send_op_cond
+                0x0000000040205340      0x168 drivers/mmc/libmmc.o
+                0x0000000040205340                mmc_send_op_cond
+ .text.mmc_send_ext_csd
+                0x00000000402054a8       0x54 drivers/mmc/libmmc.o
+                0x00000000402054a8                mmc_send_ext_csd
+ .text.mmc_switch
+                0x00000000402054fc       0x5c drivers/mmc/libmmc.o
+                0x00000000402054fc                mmc_switch
+ .text.mmc_change_freq
+                0x0000000040205558       0xb0 drivers/mmc/libmmc.o
+                0x0000000040205558                mmc_change_freq
+ .text.sd_switch
+                0x0000000040205608       0x70 drivers/mmc/libmmc.o
+                0x0000000040205608                sd_switch
+ .text.sd_change_freq
+                0x0000000040205678      0x1ec drivers/mmc/libmmc.o
+                0x0000000040205678                sd_change_freq
+ .text.mmc_set_ios
+                0x0000000040205864      0x130 drivers/mmc/libmmc.o
+                0x0000000040205864                mmc_set_ios
+ .text.mmc_set_clock
+                0x0000000040205994       0x2c drivers/mmc/libmmc.o
+                0x0000000040205994                mmc_set_clock
+ .text.mmc_startup
+                0x00000000402059c0      0x6c0 drivers/mmc/libmmc.o
+                0x00000000402059c0                mmc_startup
+ .text.mmc_send_if_cond
+                0x0000000040206080       0x80 drivers/mmc/libmmc.o
+                0x0000000040206080                mmc_send_if_cond
+ .text.mmc_register
+                0x0000000040206100       0x84 drivers/mmc/libmmc.o
+                0x0000000040206100                mmc_register
+ .text.mmc_init
+                0x0000000040206184       0xe0 drivers/mmc/libmmc.o
+                0x0000000040206184                mmc_init
+ .text.__def_mmc_init
+                0x0000000040206264        0x8 drivers/mmc/libmmc.o
+                0x0000000040206264                cpu_mmc_init
+ .text.print_mmc_devices
+                0x000000004020626c       0x64 drivers/mmc/libmmc.o
+                0x000000004020626c                print_mmc_devices
+ .text.mmc_initialize
+                0x00000000402062d0       0x4c drivers/mmc/libmmc.o
+                0x00000000402062d0                mmc_initialize
+ .text.mmc_board_init
+                0x000000004020631c       0x70 drivers/mmc/libmmc.o
+                0x000000004020631c                mmc_board_init
+ .text.mmc_init_stream
+                0x000000004020638c       0xb8 drivers/mmc/libmmc.o
+                0x000000004020638c                mmc_init_stream
+ .text.mmc_init_setup
+                0x0000000040206444      0x164 drivers/mmc/libmmc.o
+ .text.omap_mmc_init
+                0x00000000402065a8      0x110 drivers/mmc/libmmc.o
+                0x00000000402065a8                omap_mmc_init
+ .text.nand_command.clone.0
+                0x00000000402066b8       0xf4 drivers/mtd/nand/libnand.o
+ .text.nand_spl_load_image
+                0x00000000402067ac      0x1e4 drivers/mtd/nand/libnand.o
+                0x00000000402067ac                nand_spl_load_image
+ .text.nand_init
+                0x0000000040206990       0x48 drivers/mtd/nand/libnand.o
+                0x0000000040206990                nand_init
+ .text.nand_deselect
+                0x00000000402069d8       0x2c drivers/mtd/nand/libnand.o
+                0x00000000402069d8                nand_deselect
+ .text.nand_read_buf
+                0x0000000040206a04       0x2c drivers/mtd/nand/libnand.o
+                0x0000000040206a04                nand_read_buf
+ .text.nand_read_buf16
+                0x0000000040206a30       0x2c drivers/mtd/nand/libnand.o
+                0x0000000040206a30                nand_read_buf16
+ .text.omap_nand_hwcontrol
+                0x0000000040206a5c       0xa4 drivers/mtd/nand/libnand.o
+ .text.omap_spl_dev_ready
+                0x0000000040206b00       0x18 drivers/mtd/nand/libnand.o
+                0x0000000040206b00                omap_spl_dev_ready
+ .text.gen_true_ecc
+                0x0000000040206b18       0x24 drivers/mtd/nand/libnand.o
+ .text.omap_calculate_ecc
+                0x0000000040206b3c       0x40 drivers/mtd/nand/libnand.o
+ .text.omap_correct_data
+                0x0000000040206b7c      0x128 drivers/mtd/nand/libnand.o
+ .text.omap_enable_hwecc
+                0x0000000040206ca4       0x74 drivers/mtd/nand/libnand.o
+ .text.board_nand_init
+                0x0000000040206d18      0x188 drivers/mtd/nand/libnand.o
+                0x0000000040206d18                board_nand_init
+ .text.twl4030_pmrecv_vsel_cfg
+                0x0000000040206ea0       0x58 drivers/power/libpower.o
+                0x0000000040206ea0                twl4030_pmrecv_vsel_cfg
+ .text.twl4030_power_mmc_init
+                0x0000000040206ef8       0x14 drivers/power/libpower.o
+                0x0000000040206ef8                twl4030_power_mmc_init
+ .text.NS16550_init
+                0x0000000040206f0c       0x58 drivers/serial/libserial.o
+                0x0000000040206f0c                NS16550_init
+ .text.NS16550_putc
+                0x0000000040206f64       0x14 drivers/serial/libserial.o
+                0x0000000040206f64                NS16550_putc
+ .text.calc_divisor.clone.0
+                0x0000000040206f78       0x28 drivers/serial/libserial.o
+ .text.serial_init
+                0x0000000040206fa0       0x20 drivers/serial/libserial.o
+                0x0000000040206fa0                serial_init
+ .text._serial_putc
+                0x0000000040206fc0       0x38 drivers/serial/libserial.o
+                0x0000000040206fc0                _serial_putc
+ .text._serial_puts
+                0x0000000040206ff8       0x28 drivers/serial/libserial.o
+                0x0000000040206ff8                _serial_puts
+ .text.serial_puts
+                0x0000000040207020        0x8 drivers/serial/libserial.o
+                0x0000000040207020                serial_puts
+ .text.downcase
+                0x0000000040207028       0x24 fs/fat/libfat.o
+ .text.disk_read
+                0x000000004020704c       0x5c fs/fat/libfat.o
+ .text.dirdelim
+                0x00000000402070a8       0x34 fs/fat/libfat.o
+ .text.get_fatent
+                0x00000000402070dc      0x150 fs/fat/libfat.o
+ .text.slot2str
+                0x000000004020722c       0xd0 fs/fat/libfat.o
+ .text.mkcksum  0x00000000402072fc       0x30 fs/fat/libfat.o
+ .text.get_name
+                0x000000004020732c       0xc8 fs/fat/libfat.o
+ .text.read_bootsectandvi
+                0x00000000402073f4      0x124 fs/fat/libfat.o
+ .text.get_cluster
+                0x0000000040207518       0xe0 fs/fat/libfat.o
+ .text.get_vfatname
+                0x00000000402075f8      0x1b8 fs/fat/libfat.o
+ .text.fat_register_device
+                0x00000000402077b0      0x134 fs/fat/libfat.o
+                0x00000000402077b0                fat_register_device
+ .text.do_fat_read
+                0x00000000402078e4      0xa38 fs/fat/libfat.o
+                0x00000000402078e4                do_fat_read
+ .text.file_fat_read
+                0x000000004020831c       0x38 fs/fat/libfat.o
+                0x000000004020831c                file_fat_read
+ .text.__div64_32
+                0x0000000040208354       0xdc lib/libgeneric.o
+                0x0000000040208354                __div64_32
+ .text.strcpy   0x0000000040208430       0x18 lib/libgeneric.o
+                0x0000000040208430                strcpy
+ .text.strcmp   0x0000000040208448       0x28 lib/libgeneric.o
+                0x0000000040208448                strcmp
+ .text.strncmp  0x0000000040208470       0x3c lib/libgeneric.o
+                0x0000000040208470                strncmp
+ .text.strnlen  0x00000000402084ac       0x28 lib/libgeneric.o
+                0x00000000402084ac                strnlen
+ .text.memset   0x00000000402084d4       0x68 lib/libgeneric.o
+                0x00000000402084d4                memset
+ .text.memcpy   0x000000004020853c       0x74 lib/libgeneric.o
+                0x000000004020853c                memcpy
+ .text.memcmp   0x00000000402085b0       0x38 lib/libgeneric.o
+                0x00000000402085b0                memcmp
+ .text.udelay   0x00000000402085e8       0x30 lib/libgeneric.o
+                0x00000000402085e8                udelay
+ .text.pack_hex_byte
+                0x0000000040208618       0x28 lib/libgeneric.o
+ .text.put_dec_trunc
+                0x0000000040208640       0xe0 lib/libgeneric.o
+ .text.string   0x0000000040208720       0x90 lib/libgeneric.o
+ .text.put_dec  0x00000000402087b0      0x150 lib/libgeneric.o
+ .text.number   0x0000000040208900      0x210 lib/libgeneric.o
+ .text.vsprintf
+                0x0000000040208b10      0x64c lib/libgeneric.o
+                0x0000000040208b10                vsprintf
+ .text.sprintf  0x000000004020915c       0x24 lib/libgeneric.o
+                0x000000004020915c                sprintf
+ .text.raise    0x0000000040209180       0x1c /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+                0x0000000040209180                raise
+ .text          0x000000004020919c       0xc8 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_udivsi3.o)
+                0x000000004020919c                __udivsi3
+                0x000000004020919c                __aeabi_uidiv
+                0x0000000040209244                __aeabi_uidivmod
+ .text          0x0000000040209264       0xfc /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_divsi3.o)
+                0x0000000040209264                __aeabi_idiv
+                0x0000000040209264                __divsi3
+                0x0000000040209340                __aeabi_idivmod
+ .text          0x0000000040209360       0x1c /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_lshrdi3.o)
+                0x0000000040209360                __aeabi_llsr
+                0x0000000040209360                __lshrdi3
+ .text          0x000000004020937c       0x1c /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashldi3.o)
+                0x000000004020937c                __ashldi3
+                0x000000004020937c                __aeabi_llsl
+ .text          0x0000000040209398       0x10 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_dvmd_lnx.o)
+                0x0000000040209398                __aeabi_ldiv0
+                0x0000000040209398                __aeabi_idiv0
+
+.glue_7         0x0000000000000000        0x0
+ .glue_7        0x0000000000000000        0x0 linker stubs
+
+.glue_7t        0x0000000000000000        0x0
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000000000        0x0
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+
+.v4_bx          0x0000000000000000        0x0
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+                0x0000000000000000                . = ALIGN (0x4)
+
+.rodata         0x00000000402093a8     0x167f
+ *(SORT(.rodata*))
+ .rodata.gpio_bank_34xx
+                0x00000000402093a8       0x30 arch/arm/cpu/armv7/omap3/libomap3.o
+ .rodata.omap_gpio_bank
+                0x00000000402093d8        0x4 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x00000000402093d8                omap_gpio_bank
+ .rodata.gpmc_m_nand
+                0x00000000402093dc       0x1c arch/arm/cpu/armv7/omap3/libomap3.o
+ .rodata.multipliers
+                0x00000000402093f8       0x40 drivers/mmc/libmmc.o
+ .rodata.fbase  0x0000000040209438       0x10 drivers/mmc/libmmc.o
+ .rodata.nand_ecc_pos
+                0x0000000040209448       0x30 drivers/mtd/nand/libnand.o
+ .rodata.serial_ports
+                0x0000000040209478       0x10 drivers/serial/libserial.o
+ .rodata.str1.1
+                0x0000000040209488      0x2a0 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .rodata.str1.1
+                0x0000000040209728      0x139 arch/arm/cpu/armv7/omap3/libomap3.o
+                                        0x13d (size before relaxing)
+ .rodata.str1.1
+                0x0000000040209861      0x441 board/ti/beagle/libbeagle.o
+                                        0x447 (size before relaxing)
+ .rodata.str1.1
+                0x0000000040209ca2      0x2ba disk/libdisk.o
+                                        0x2df (size before relaxing)
+ .rodata.str1.1
+                0x0000000040209f5c      0x217 drivers/i2c/libi2c.o
+ .rodata.str1.1
+                0x000000004020a173      0x27e drivers/mmc/libmmc.o
+                                        0x280 (size before relaxing)
+ .rodata.__func__.3568
+                0x000000004020a3f1       0x10 drivers/mmc/libmmc.o
+ .rodata.__func__.3736
+                0x000000004020a401        0xf drivers/mmc/libmmc.o
+ .rodata.__func__.3801
+                0x000000004020a410        0xc drivers/mmc/libmmc.o
+ .rodata.__func__.3701
+                0x000000004020a41c        0xe drivers/mmc/libmmc.o
+ .rodata.__func__.3598
+                0x000000004020a42a        0xf drivers/mmc/libmmc.o
+ .rodata.__func__.3655
+                0x000000004020a439        0xd drivers/mmc/libmmc.o
+ .rodata.str1.1
+                0x000000004020a446      0x32d drivers/mtd/nand/libnand.o
+ .rodata.str1.1
+                0x000000004020a773      0x148 fs/fat/libfat.o
+                                        0x173 (size before relaxing)
+ .rodata._ctype
+                0x000000004020a8bb      0x100 lib/libgeneric.o
+                0x000000004020a8bb                _ctype
+ .rodata.digits.3050
+                0x000000004020a9bb       0x10 lib/libgeneric.o
+ .rodata.str1.1
+                0x000000004020a9cb       0x30 lib/libgeneric.o
+ .rodata.hex_asc
+                0x000000004020a9fb       0x11 lib/libgeneric.o
+                0x000000004020a9fb                hex_asc
+ .rodata.str1.1
+                0x000000004020aa0c       0x1b /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+                0x000000004020aa28                . = ALIGN (0x4)
+
+.data           0x000000004020aa28      0x700
+ *(SORT(.data*))
+ .data          0x000000004020aa28       0x98 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .data.omap3_boot_device
+                0x000000004020aac0        0x4 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x000000004020aac0                omap3_boot_device
+ .data.av_      0x000000004020aac4      0x408 common/libcommon.o
+ .data.sbrk_base
+                0x000000004020aecc        0x4 common/libcommon.o
+ .data.trim_threshold
+                0x000000004020aed0        0x4 common/libcommon.o
+ .data.i2c_base
+                0x000000004020aed4        0x4 drivers/i2c/libi2c.o
+ .data.cur_dev_num
+                0x000000004020aed8        0x4 drivers/mmc/libmmc.o
+ .data.hw_nand_oob
+                0x000000004020aedc      0x248 drivers/mtd/nand/libnand.o
+ .data.cur_part
+                0x000000004020b124        0x4 fs/fat/libfat.o
+                0x000000004020b128                . = ALIGN (0x4)
+                0x000000004020b128                __image_copy_end = .
+                0x000000004020b128                _end = .
+
+.bss            0x0000000080000000    0x30494
+                0x0000000080000000                . = ALIGN (0x4)
+                0x0000000080000000                __bss_start = .
+ *(.bss*)
+ .bss.spl_image
+                0x0000000080000000       0x14 arch/arm/cpu/armv7/omap-common/libomap-common.o
+                0x0000000080000000                spl_image
+ .bss.boot_params_ptr
+                0x0000000080000014        0x4 arch/arm/cpu/armv7/omap-common/libomap-common.o
+                0x0000000080000014                boot_params_ptr
+ .bss.gpmc_cfg  0x0000000080000018        0x4 arch/arm/cpu/armv7/omap3/libomap3.o
+                0x0000000080000018                gpmc_cfg
+ .bss.max_total_mem
+                0x000000008000001c        0x4 common/libcommon.o
+ .bss.mem_malloc_brk
+                0x0000000080000020        0x4 common/libcommon.o
+                0x0000000080000020                mem_malloc_brk
+ .bss.max_sbrked_mem
+                0x0000000080000024        0x4 common/libcommon.o
+ .bss.current_mallinfo
+                0x0000000080000028       0x28 common/libcommon.o
+ .bss.mem_malloc_end
+                0x0000000080000050        0x4 common/libcommon.o
+                0x0000000080000050                mem_malloc_end
+ .bss.top_pad   0x0000000080000054        0x4 common/libcommon.o
+ .bss.mem_malloc_start
+                0x0000000080000058        0x4 common/libcommon.o
+                0x0000000080000058                mem_malloc_start
+ .bss.stdio_devices
+                0x000000008000005c        0xc common/libcommon.o
+                0x000000008000005c                stdio_devices
+ .bss.current_bus
+                0x0000000080000068        0x4 drivers/i2c/libi2c.o
+ .bss.bus_initialized
+                0x000000008000006c        0xc drivers/i2c/libi2c.o
+ .bss.mmc_devices
+                0x0000000080000078        0x8 drivers/mmc/libmmc.o
+ .bss.hsmmc_dev
+                0x0000000080000080      0x240 drivers/mmc/libmmc.o
+ .bss.mtd       0x00000000800002c0       0xa8 drivers/mtd/nand/libnand.o
+ .bss.nand_chip
+                0x0000000080000368      0x120 drivers/mtd/nand/libnand.o
+ .bss.cs        0x0000000080000488        0x1 drivers/mtd/nand/libnand.o
+ *fill*         0x0000000080000489        0x3 00
+ .bss.do_fat_read_block
+                0x000000008000048c    0x10000 fs/fat/libfat.o
+                0x000000008000048c                do_fat_read_block
+ .bss.get_vfatname_block
+                0x000000008001048c    0x10000 fs/fat/libfat.o
+                0x000000008001048c                get_vfatname_block
+ .bss.part_offset
+                0x000000008002048c        0x4 fs/fat/libfat.o
+ .bss.get_dentfromdir_block
+                0x0000000080020490    0x10000 fs/fat/libfat.o
+                0x0000000080020490                get_dentfromdir_block
+ .bss.cur_dev   0x0000000080030490        0x4 fs/fat/libfat.o
+                0x0000000080030494                . = ALIGN (0x4)
+                0x0000000080030494                __bss_end__ = .
+Address of section .text set to 0x40200800
+LOAD arch/arm/cpu/armv7/start.o
+START GROUP
+LOAD arch/arm/cpu/armv7/libarmv7.o
+LOAD arch/arm/cpu/armv7/omap-common/libomap-common.o
+LOAD arch/arm/cpu/armv7/omap3/libomap3.o
+LOAD arch/arm/lib/libarm.o
+LOAD board/ti/beagle/libbeagle.o
+LOAD common/libcommon.o
+LOAD disk/libdisk.o
+LOAD drivers/i2c/libi2c.o
+LOAD drivers/mmc/libmmc.o
+LOAD drivers/mtd/nand/libnand.o
+LOAD drivers/power/libpower.o
+LOAD drivers/serial/libserial.o
+LOAD fs/fat/libfat.o
+LOAD lib/libgeneric.o
+END GROUP
+LOAD /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+LOAD /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a
+OUTPUT(u-boot-spl elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2d
+ .ARM.attributes
+                0x0000000000000000       0x17 arch/arm/cpu/armv7/start.o
+ .ARM.attributes
+                0x0000000000000017       0x29 arch/arm/cpu/armv7/libarmv7.o
+ .ARM.attributes
+                0x0000000000000040       0x25 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .ARM.attributes
+                0x0000000000000065       0x27 arch/arm/cpu/armv7/omap3/libomap3.o
+ .ARM.attributes
+                0x000000000000008c       0x29 board/ti/beagle/libbeagle.o
+ .ARM.attributes
+                0x00000000000000b5       0x29 common/libcommon.o
+ .ARM.attributes
+                0x00000000000000de       0x29 disk/libdisk.o
+ .ARM.attributes
+                0x0000000000000107       0x29 drivers/i2c/libi2c.o
+ .ARM.attributes
+                0x0000000000000130       0x29 drivers/mmc/libmmc.o
+ .ARM.attributes
+                0x0000000000000159       0x29 drivers/mtd/nand/libnand.o
+ .ARM.attributes
+                0x0000000000000182       0x27 drivers/power/libpower.o
+ .ARM.attributes
+                0x00000000000001a9       0x29 drivers/serial/libserial.o
+ .ARM.attributes
+                0x00000000000001d2       0x29 fs/fat/libfat.o
+ .ARM.attributes
+                0x00000000000001fb       0x29 lib/libgeneric.o
+ .ARM.attributes
+                0x0000000000000224       0x29 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+ .ARM.attributes
+                0x000000000000024d       0x23 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000270       0x23 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000000000000293       0x23 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_lshrdi3.o)
+ .ARM.attributes
+                0x00000000000002b6       0x23 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashrdi3.o)
+ .ARM.attributes
+                0x00000000000002d9       0x23 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashldi3.o)
+ .ARM.attributes
+                0x00000000000002fc       0x23 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_dvmd_lnx.o)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 arch/arm/cpu/armv7/libarmv7.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 arch/arm/cpu/armv7/omap3/libomap3.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 board/ti/beagle/libbeagle.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 common/libcommon.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 disk/libdisk.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 drivers/i2c/libi2c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 drivers/mmc/libmmc.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 drivers/mtd/nand/libnand.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 drivers/power/libpower.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 drivers/serial/libserial.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 fs/fat/libfat.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 lib/libgeneric.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_udivsi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_divsi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_lshrdi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashrdi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashldi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_dvmd_lnx.o)
+
+.comment        0x0000000000000000       0x27
+ .comment       0x0000000000000000       0x27 arch/arm/cpu/armv7/libarmv7.o
+                                         0x28 (size before relaxing)
+ .comment       0x0000000000000000       0xf0 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .comment       0x0000000000000000       0xf0 arch/arm/cpu/armv7/omap3/libomap3.o
+ .comment       0x0000000000000000       0x50 board/ti/beagle/libbeagle.o
+ .comment       0x0000000000000000       0xa0 common/libcommon.o
+ .comment       0x0000000000000000       0x50 disk/libdisk.o
+ .comment       0x0000000000000000       0x28 drivers/i2c/libi2c.o
+ .comment       0x0000000000000000       0x50 drivers/mmc/libmmc.o
+ .comment       0x0000000000000000       0xa0 drivers/mtd/nand/libnand.o
+ .comment       0x0000000000000000       0x28 drivers/power/libpower.o
+ .comment       0x0000000000000000       0x50 drivers/serial/libserial.o
+ .comment       0x0000000000000000       0x28 fs/fat/libfat.o
+ .comment       0x0000000000000000       0xc8 lib/libgeneric.o
+ .comment       0x0000000000000000       0x28 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+
+.debug_line     0x0000000000000000     0x896b
+ .debug_line    0x0000000000000000       0x90 arch/arm/cpu/armv7/start.o
+ .debug_line    0x0000000000000090       0xf9 arch/arm/cpu/armv7/libarmv7.o
+ .debug_line    0x0000000000000189      0xd5e arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .debug_line    0x0000000000000ee7      0xfcd arch/arm/cpu/armv7/omap3/libomap3.o
+ .debug_line    0x0000000000001eb4      0x4e7 board/ti/beagle/libbeagle.o
+ .debug_line    0x000000000000239b      0xf73 common/libcommon.o
+ .debug_line    0x000000000000330e      0x58f disk/libdisk.o
+ .debug_line    0x000000000000389d      0x471 drivers/i2c/libi2c.o
+ .debug_line    0x0000000000003d0e      0xe71 drivers/mmc/libmmc.o
+ .debug_line    0x0000000000004b7f     0x1adc drivers/mtd/nand/libnand.o
+ .debug_line    0x000000000000665b      0x1d4 drivers/power/libpower.o
+ .debug_line    0x000000000000682f      0x579 drivers/serial/libserial.o
+ .debug_line    0x0000000000006da8      0x750 fs/fat/libfat.o
+ .debug_line    0x00000000000074f8      0xf20 lib/libgeneric.o
+ .debug_line    0x0000000000008418       0x4f /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+ .debug_line    0x0000000000008467       0xe8 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_udivsi3.o)
+ .debug_line    0x000000000000854f       0xf4 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_divsi3.o)
+ .debug_line    0x0000000000008643       0xca /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_lshrdi3.o)
+ .debug_line    0x000000000000870d       0xca /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashrdi3.o)
+ .debug_line    0x00000000000087d7       0xca /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashldi3.o)
+ .debug_line    0x00000000000088a1       0xca /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_dvmd_lnx.o)
+
+.debug_info     0x0000000000000000    0x1d1c9
+ .debug_info    0x0000000000000000       0xbc arch/arm/cpu/armv7/start.o
+ .debug_info    0x00000000000000bc      0x1d1 arch/arm/cpu/armv7/libarmv7.o
+ .debug_info    0x000000000000028d     0x1f36 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .debug_info    0x00000000000021c3     0x4161 arch/arm/cpu/armv7/omap3/libomap3.o
+ .debug_info    0x0000000000006324     0x4417 board/ti/beagle/libbeagle.o
+ .debug_info    0x000000000000a73b     0x214b common/libcommon.o
+ .debug_info    0x000000000000c886      0xeb8 disk/libdisk.o
+ .debug_info    0x000000000000d73e      0xee2 drivers/i2c/libi2c.o
+ .debug_info    0x000000000000e620     0x37db drivers/mmc/libmmc.o
+ .debug_info    0x0000000000011dfb     0x6c57 drivers/mtd/nand/libnand.o
+ .debug_info    0x0000000000018a52      0x240 drivers/power/libpower.o
+ .debug_info    0x0000000000018c92      0xe43 drivers/serial/libserial.o
+ .debug_info    0x0000000000019ad5     0x1385 fs/fat/libfat.o
+ .debug_info    0x000000000001ae5a     0x1933 lib/libgeneric.o
+ .debug_info    0x000000000001c78d       0xb8 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+ .debug_info    0x000000000001c845      0x196 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_udivsi3.o)
+ .debug_info    0x000000000001c9db      0x196 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_divsi3.o)
+ .debug_info    0x000000000001cb71      0x196 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_lshrdi3.o)
+ .debug_info    0x000000000001cd07      0x196 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashrdi3.o)
+ .debug_info    0x000000000001ce9d      0x196 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashldi3.o)
+ .debug_info    0x000000000001d033      0x196 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_dvmd_lnx.o)
+
+.debug_abbrev   0x0000000000000000     0x4ed6
+ .debug_abbrev  0x0000000000000000       0x14 arch/arm/cpu/armv7/start.o
+ .debug_abbrev  0x0000000000000014       0xd5 arch/arm/cpu/armv7/libarmv7.o
+ .debug_abbrev  0x00000000000000e9      0x95d arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .debug_abbrev  0x0000000000000a46      0xe20 arch/arm/cpu/armv7/omap3/libomap3.o
+ .debug_abbrev  0x0000000000001866      0x35c board/ti/beagle/libbeagle.o
+ .debug_abbrev  0x0000000000001bc2      0x8be common/libcommon.o
+ .debug_abbrev  0x0000000000002480      0x441 disk/libdisk.o
+ .debug_abbrev  0x00000000000028c1      0x312 drivers/i2c/libi2c.o
+ .debug_abbrev  0x0000000000002bd3      0x860 drivers/mmc/libmmc.o
+ .debug_abbrev  0x0000000000003433      0xb98 drivers/mtd/nand/libnand.o
+ .debug_abbrev  0x0000000000003fcb      0x118 drivers/power/libpower.o
+ .debug_abbrev  0x00000000000040e3      0x375 drivers/serial/libserial.o
+ .debug_abbrev  0x0000000000004458      0x349 fs/fat/libfat.o
+ .debug_abbrev  0x00000000000047a1      0x654 lib/libgeneric.o
+ .debug_abbrev  0x0000000000004df5       0x69 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+ .debug_abbrev  0x0000000000004e5e       0x14 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000004e72       0x14 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000004e86       0x14 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_lshrdi3.o)
+ .debug_abbrev  0x0000000000004e9a       0x14 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashrdi3.o)
+ .debug_abbrev  0x0000000000004eae       0x14 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashldi3.o)
+ .debug_abbrev  0x0000000000004ec2       0x14 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_dvmd_lnx.o)
+
+.debug_aranges  0x0000000000000000      0xf70
+ .debug_aranges
+                0x0000000000000000       0x20 arch/arm/cpu/armv7/start.o
+ .debug_aranges
+                0x0000000000000020       0x30 arch/arm/cpu/armv7/libarmv7.o
+ .debug_aranges
+                0x0000000000000050      0x190 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .debug_aranges
+                0x00000000000001e0      0x238 arch/arm/cpu/armv7/omap3/libomap3.o
+ .debug_aranges
+                0x0000000000000418       0xa8 board/ti/beagle/libbeagle.o
+ .debug_aranges
+                0x00000000000004c0      0x1b0 common/libcommon.o
+ .debug_aranges
+                0x0000000000000670       0x90 disk/libdisk.o
+ .debug_aranges
+                0x0000000000000700       0x60 drivers/i2c/libi2c.o
+ .debug_aranges
+                0x0000000000000760      0x158 drivers/mmc/libmmc.o
+ .debug_aranges
+                0x00000000000008b8      0x290 drivers/mtd/nand/libnand.o
+ .debug_aranges
+                0x0000000000000b48       0x38 drivers/power/libpower.o
+ .debug_aranges
+                0x0000000000000b80       0xc8 drivers/serial/libserial.o
+ .debug_aranges
+                0x0000000000000c48       0x90 fs/fat/libfat.o
+ .debug_aranges
+                0x0000000000000cd8      0x1b0 lib/libgeneric.o
+ .debug_aranges
+                0x0000000000000e88       0x28 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+ .debug_aranges
+                0x0000000000000eb0       0x20 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000ed0       0x20 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000ef0       0x20 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_lshrdi3.o)
+ .debug_aranges
+                0x0000000000000f10       0x20 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashrdi3.o)
+ .debug_aranges
+                0x0000000000000f30       0x20 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_ashldi3.o)
+ .debug_aranges
+                0x0000000000000f50       0x20 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_dvmd_lnx.o)
+
+.debug_pubnames
+                0x0000000000000000     0x14b6
+ .debug_pubnames
+                0x0000000000000000       0x38 arch/arm/cpu/armv7/libarmv7.o
+ .debug_pubnames
+                0x0000000000000038      0x23e arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .debug_pubnames
+                0x0000000000000276      0x3f0 arch/arm/cpu/armv7/omap3/libomap3.o
+ .debug_pubnames
+                0x0000000000000666      0x155 board/ti/beagle/libbeagle.o
+ .debug_pubnames
+                0x00000000000007bb      0x2fd common/libcommon.o
+ .debug_pubnames
+                0x0000000000000ab8       0xb9 disk/libdisk.o
+ .debug_pubnames
+                0x0000000000000b71       0x77 drivers/i2c/libi2c.o
+ .debug_pubnames
+                0x0000000000000be8      0x23f drivers/mmc/libmmc.o
+ .debug_pubnames
+                0x0000000000000e27      0x16c drivers/mtd/nand/libnand.o
+ .debug_pubnames
+                0x0000000000000f93       0x7d drivers/power/libpower.o
+ .debug_pubnames
+                0x0000000000001010      0x164 drivers/serial/libserial.o
+ .debug_pubnames
+                0x0000000000001174       0xb9 fs/fat/libfat.o
+ .debug_pubnames
+                0x000000000000122d      0x252 lib/libgeneric.o
+ .debug_pubnames
+                0x000000000000147f       0x37 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+
+.debug_frame    0x0000000000000000     0x25b4
+ .debug_frame   0x0000000000000000       0x50 arch/arm/cpu/armv7/libarmv7.o
+ .debug_frame   0x0000000000000050      0x2f4 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .debug_frame   0x0000000000000344      0x49c arch/arm/cpu/armv7/omap3/libomap3.o
+ .debug_frame   0x00000000000007e0      0x194 board/ti/beagle/libbeagle.o
+ .debug_frame   0x0000000000000974      0x448 common/libcommon.o
+ .debug_frame   0x0000000000000dbc      0x174 disk/libdisk.o
+ .debug_frame   0x0000000000000f30      0x10c drivers/i2c/libi2c.o
+ .debug_frame   0x000000000000103c      0x438 drivers/mmc/libmmc.o
+ .debug_frame   0x0000000000001474      0x890 drivers/mtd/nand/libnand.o
+ .debug_frame   0x0000000000001d04       0x7c drivers/power/libpower.o
+ .debug_frame   0x0000000000001d80      0x198 drivers/serial/libserial.o
+ .debug_frame   0x0000000000001f18      0x1bc fs/fat/libfat.o
+ .debug_frame   0x00000000000020d4      0x468 lib/libgeneric.o
+ .debug_frame   0x000000000000253c       0x38 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+ .debug_frame   0x0000000000002574       0x20 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000002594       0x20 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/sysroots/beagleboard/usr/lib/arm-angstrom-linux-gnueabi/4.5.4/libgcc.a(_divsi3.o)
+
+.debug_str      0x0000000000000000     0x4689
+ .debug_str     0x0000000000000000      0x164 arch/arm/cpu/armv7/libarmv7.o
+                                        0x1a8 (size before relaxing)
+ .debug_str     0x0000000000000164      0x707 arch/arm/cpu/armv7/omap-common/libomap-common.o
+                                       0x12b7 (size before relaxing)
+ .debug_str     0x000000000000086b      0xd3f arch/arm/cpu/armv7/omap3/libomap3.o
+                                       0x1c3c (size before relaxing)
+ .debug_str     0x00000000000015aa      0x5b4 board/ti/beagle/libbeagle.o
+                                        0xc34 (size before relaxing)
+ .debug_str     0x0000000000001b5e      0x793 common/libcommon.o
+                                       0x1087 (size before relaxing)
+ .debug_str     0x00000000000022f1      0x2b3 disk/libdisk.o
+                                        0x767 (size before relaxing)
+ .debug_str     0x00000000000025a4      0x199 drivers/i2c/libi2c.o
+                                        0x40d (size before relaxing)
+ .debug_str     0x000000000000273d      0x452 drivers/mmc/libmmc.o
+                                        0xe64 (size before relaxing)
+ .debug_str     0x0000000000002b8f      0xe6c drivers/mtd/nand/libnand.o
+                                       0x27e6 (size before relaxing)
+ .debug_str     0x00000000000039fb      0x143 drivers/power/libpower.o
+                                        0x1ee (size before relaxing)
+ .debug_str     0x0000000000003b3e      0x29c drivers/serial/libserial.o
+                                        0x77d (size before relaxing)
+ .debug_str     0x0000000000003dda      0x521 fs/fat/libfat.o
+                                        0x728 (size before relaxing)
+ .debug_str     0x00000000000042fb      0x2d6 lib/libgeneric.o
+                                        0x944 (size before relaxing)
+ .debug_str     0x00000000000045d1       0xb8 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+                                        0x163 (size before relaxing)
+
+.debug_loc      0x0000000000000000    0x10e2d
+ .debug_loc     0x0000000000000000      0x13d arch/arm/cpu/armv7/libarmv7.o
+ .debug_loc     0x000000000000013d      0xa8d arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .debug_loc     0x0000000000000bca     0x135b arch/arm/cpu/armv7/omap3/libomap3.o
+ .debug_loc     0x0000000000001f25      0xe09 board/ti/beagle/libbeagle.o
+ .debug_loc     0x0000000000002d2e     0x1f06 common/libcommon.o
+ .debug_loc     0x0000000000004c34      0x7bb disk/libdisk.o
+ .debug_loc     0x00000000000053ef      0xa53 drivers/i2c/libi2c.o
+ .debug_loc     0x0000000000005e42     0x2598 drivers/mmc/libmmc.o
+ .debug_loc     0x00000000000083da     0x4cd1 drivers/mtd/nand/libnand.o
+ .debug_loc     0x000000000000d0ab      0x12c drivers/power/libpower.o
+ .debug_loc     0x000000000000d1d7      0x295 drivers/serial/libserial.o
+ .debug_loc     0x000000000000d46c     0x14e8 fs/fat/libfat.o
+ .debug_loc     0x000000000000e954     0x249b lib/libgeneric.o
+ .debug_loc     0x0000000000010def       0x3e /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+
+.debug_pubtypes
+                0x0000000000000000     0x173d
+ .debug_pubtypes
+                0x0000000000000000       0x1a arch/arm/cpu/armv7/libarmv7.o
+ .debug_pubtypes
+                0x000000000000001a      0x322 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .debug_pubtypes
+                0x000000000000033c      0x237 arch/arm/cpu/armv7/omap3/libomap3.o
+ .debug_pubtypes
+                0x0000000000000573       0xe7 board/ti/beagle/libbeagle.o
+ .debug_pubtypes
+                0x000000000000065a      0x20a common/libcommon.o
+ .debug_pubtypes
+                0x0000000000000864      0x186 disk/libdisk.o
+ .debug_pubtypes
+                0x00000000000009ea       0x8c drivers/i2c/libi2c.o
+ .debug_pubtypes
+                0x0000000000000a76      0x1c2 drivers/mmc/libmmc.o
+ .debug_pubtypes
+                0x0000000000000c38      0x7be drivers/mtd/nand/libnand.o
+ .debug_pubtypes
+                0x00000000000013f6       0x19 drivers/power/libpower.o
+ .debug_pubtypes
+                0x000000000000140f       0xb1 drivers/serial/libserial.o
+ .debug_pubtypes
+                0x00000000000014c0      0x121 fs/fat/libfat.o
+ .debug_pubtypes
+                0x00000000000015e1      0x14a lib/libgeneric.o
+ .debug_pubtypes
+                0x000000000000172b       0x12 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o
+
+.debug_ranges   0x0000000000000000     0x1b28
+ .debug_ranges  0x0000000000000000       0x20 arch/arm/cpu/armv7/libarmv7.o
+ .debug_ranges  0x0000000000000020      0x178 arch/arm/cpu/armv7/omap-common/libomap-common.o
+ .debug_ranges  0x0000000000000198      0x300 arch/arm/cpu/armv7/omap3/libomap3.o
+ .debug_ranges  0x0000000000000498      0x130 board/ti/beagle/libbeagle.o
+ .debug_ranges  0x00000000000005c8      0x1a0 common/libcommon.o
+ .debug_ranges  0x0000000000000768       0x88 disk/libdisk.o
+ .debug_ranges  0x00000000000007f0      0x1d8 drivers/i2c/libi2c.o
+ .debug_ranges  0x00000000000009c8      0x538 drivers/mmc/libmmc.o
+ .debug_ranges  0x0000000000000f00      0x5e0 drivers/mtd/nand/libnand.o
+ .debug_ranges  0x00000000000014e0       0x78 drivers/power/libpower.o
+ .debug_ranges  0x0000000000001558      0x108 drivers/serial/libserial.o
+ .debug_ranges  0x0000000000001660      0x1b0 fs/fat/libfat.o
+ .debug_ranges  0x0000000000001810      0x300 lib/libgeneric.o
+ .debug_ranges  0x0000000000001b10       0x18 /home/jack/BeagleBoard/oe/build/tmp-angstrom_2010_x-eglibc/work/beagleboard-angstrom-linux-gnueabi/u-boot-2011.09-r5/git/spl/arch/arm/lib/eabi_compat.o

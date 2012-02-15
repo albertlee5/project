@@ -130,6 +130,10 @@ src :=
 endif
 export obj src
 
+#echo "fuck";
+
+#exit 3;
+
 # Make sure CDPATH settings don't interfere
 unexport CDPATH
 
